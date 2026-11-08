@@ -1,0 +1,10 @@
+# 版本已鎖定。需 Python 3.11 或 3.12（python-telegram-bot 20.7 不相容 3.13）
+python-telegram-bot==20.7
+# python-telegram-bot 20.7 需要 httpx 0.25.x
+httpx==0.25.2
+fastapi==0.162.2
+uvicorn==0.54.0
+anthropic==2.6.0
+python-dotenv==1.2.4
+aiofiles==25.1.0
+pydantic==2.14.3

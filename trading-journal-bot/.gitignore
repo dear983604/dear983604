@@ -1,0 +1,13 @@
+# 機密設定
+.env
+
+# 交易資料（不進版控）
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.log
